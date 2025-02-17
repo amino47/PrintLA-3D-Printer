@@ -9,5 +9,5 @@ My Goals:
 - 2. Run Klipper Firmware
 - 3. Cost under $300 USD other than fillament costs.
 - 4. Be no larger than 300mm x 300mm x 400mm
-
+- 5. Be portable and easy to move.
 
