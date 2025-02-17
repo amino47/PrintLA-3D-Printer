@@ -5,9 +5,12 @@ Total hours so far: 0
 - [x] I have a 3D printer or will be getting one before March 21st
 
 My Goals:
-- 1. Use entirely off-the-shelf components.
+- 1. Use entirely off-the-shelf components for all non-printed parts.
 - 2. Run Klipper Firmware
-- 3. Cost under $300 USD other than fillament costs.
+- 3. Cost under $300 USD other than fillament costs/ stuff I already own.
 - 4. Be no larger than 300mm x 300mm x 400mm
 - 5. Be portable and easy to move.
+- 5. All 3D Printed parts will be printable on a Ender 3 V3 SE.
 
+## Day 1: 2/17/2025
+I am just starting this project. I am currently researching other open source 3D Printers to see what design I want.
